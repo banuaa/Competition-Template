@@ -1,1 +1,1 @@
-# Annofest-Website
+## Competition Template
